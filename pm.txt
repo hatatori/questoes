@@ -1,0 +1,8 @@
+Todas as sanções podem ser anuladas, mas nem todas sanções podem ser canceladas.
+
+**C
+E
+[[
+Cancelamento
+A,R,P,C = 2,3,4,10 anos
+]]
