@@ -1,0 +1,9 @@
+Um número ímpar adicionado a metade um número par tem como resultado um número ímpar.
+
+**C
+E
+-----
+Se subtrairmos 5 unidades da metade de um número obtemos o mesmo valor que subtraindo 1 unidade de um terço desse mesmo número, logo esse número é 24.
+
+**C
+E
